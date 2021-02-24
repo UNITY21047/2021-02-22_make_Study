@@ -20,3 +20,5 @@ https://gigi.nullneuron.net/gigilabs/tag/sdl2/
 https://wiki.libsdl.org/FrontPage
 https://discourse.libsdl.org/c/sdl-development/6
 https://caveofprogramming.com/guest-posts/creating-a-window-with-sdl.html
+
+Using g++ is the same as gcc.
