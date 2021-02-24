@@ -1,5 +1,22 @@
+pkg-config Usage Research
 https://stackoverflow.com/questions/20416956/what-is-the-significance-of-pkg-config-in-gcc
 https://linux.die.net/man/1/pkg-config
+https://stackoverflow.com/questions/20416956/what-is-the-significance-of-pkg-config-in-gcc
+https://www.freedesktop.org/wiki/Software/pkg-config/
+https://people.freedesktop.org/~dbn/pkg-config-guide.html
+Paste this command to get all install packages in pkg-config:
+pkg-config --list-all
+
+SDL2 Library Setup Linux/Windows With make
 https://packages.debian.org/buster/libsdl2-2.0-0
 https://packages.debian.org/buster/libsdl2-dev
-https://packages.debian.org/buster/libsdl2-doc
+https://packages.debian.org/buster/libsdl2-
+https://github.com/atoz-programming-tutorials/C-Game-Development-with-SDL-2-Lesson-01/blob/master/main.c
+https://www.youtube.com/watch?v=23rD7xdd9ZE
+https://wiki.libsdl.org/SDL_CreateWindow
+https://wiki.libsdl.org/SDL_RenderPresent
+https://wiki.libsdl.org/
+https://gigi.nullneuron.net/gigilabs/tag/sdl2/
+https://wiki.libsdl.org/FrontPage
+https://discourse.libsdl.org/c/sdl-development/6
+https://caveofprogramming.com/guest-posts/creating-a-window-with-sdl.html
