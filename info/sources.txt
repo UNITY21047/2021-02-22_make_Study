@@ -1,0 +1,5 @@
+https://stackoverflow.com/questions/20416956/what-is-the-significance-of-pkg-config-in-gcc
+https://linux.die.net/man/1/pkg-config
+https://packages.debian.org/buster/libsdl2-2.0-0
+https://packages.debian.org/buster/libsdl2-dev
+https://packages.debian.org/buster/libsdl2-doc
